@@ -16,7 +16,7 @@ Requirement data and demands variables for post method.
 - The data is distance matrix for all locations.
 - And demands is locations's capasities.
 
-```javascript
+```json
 "data": "[
 	[0, 548, 776, 696, 582, 274, 502, 194, 308, 194, 536, 502, 388, 354, 468, 776, 662],
 	[548, 0, 684, 308, 194, 502, 730, 354, 696, 742, 1084, 594, 480, 674, 1016, 868, 1210],
@@ -38,7 +38,7 @@ Requirement data and demands variables for post method.
 ]",
 ```
 and location's capacities,
-```javascript
+```json
 "demands": "[
 	0,2000,1000,3000,500,900,700,300,500,900,700,800,500,300,100,400,500
 ]"
