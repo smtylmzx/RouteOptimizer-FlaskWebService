@@ -1,5 +1,5 @@
 
-# RouteOptimizer-FlaskWebService
+# Route Optimization - Flask Web Service
 - This project is capacitated vehicle routing problem (CVRP) with FlaskApp.
 - Project has one depot and a few trucks calculate optimize route and  response json data  via Google Ortools.
 
@@ -14,7 +14,7 @@ Trucks capacities code block; <code>capacities = [5000, 5000, 5000]</code>
 
 Requirement data and demands variables for post method.
 - The data is distance matrix for all locations.
-- And demands is locations's capasities.
+- And demands is locations's capacities.
 
 ```json
 "data": "[
