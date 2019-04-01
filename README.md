@@ -58,6 +58,4 @@ and result has three (truck size) route,
 ]
 ```
 
-<br>
-<br>
-<center>made with ❤️</center>
+<p align="center">made with ❤️</p>
